@@ -50,11 +50,12 @@ Good journals that accept papers on applications of AI techniques. Empirical res
 - [JBHI] - IEEE Journal of Biomedical and Health Informatics
 
 # Conference Timeline
-**Convert Markdown timeline to Graphviz DOT**
 
-![Example timeline](README.md.dot.png)
+## Convert Markdown timeline to Graphviz DOT
 
-The Ruby program converts parts of the Markdown to Graphviz DOT.
+![Example timeline](README.md.dot.svg)
+
+The Ruby program (adapted from [Timeline](https://github.com/Maumagnaguagno/Timeline)) converts parts of the Markdown to Graphviz DOT.
 Each ``[]:`` into a link, ``##`` into a cluster, ``-`` of the cluster into a node.
 Links and descriptions must be described before the actual input starts.
 This README is actually a valid input, see the raw file to see the links.
