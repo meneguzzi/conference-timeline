@@ -4,7 +4,7 @@ All conferences and journals listed here were classified using either one of the
 - [Qualis da CAPES](https://sucupira.capes.gov.br)
 - [Excellence in Research in Australia (ERA)](http://www.arc.gov.au/excellence-research-australia)
 
-These rakings are summarized in the [Conference Rankings](http://www.conferenceranks.com) and [Qualis@UFMT](http://qualis.ic.ufmt.br) websites
+These rankings are summarized in the [Conference Rankings](http://www.conferenceranks.com) and [UFMT Qualis](https://qualis.ic.ufmt.br) websites. We also recommend looking at Mike Wooldridge's website rankings of [Conferences](https://www.cs.ox.ac.uk/people/michael.wooldridge/conferences.html) and [Journals](https://www.cs.ox.ac.uk/people/michael.wooldridge/journals.html).
 
 # Journals
 
